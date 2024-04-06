@@ -1,1 +1,1 @@
-<h1>testing my first repository</h1>
+<h1>testing my first repositry</h1>
